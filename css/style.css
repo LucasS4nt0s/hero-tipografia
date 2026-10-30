@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Archivo Black","Inter";
+    background-color: rgb(3, 2, 75);
+}
+
+.hero {
+    font-family: "Inter";
+    margin-top: 15rem;
+}
+.bagde {
+    font-weight: bolder;
+    padding: 0.5rem;
+    border-radius: 10rem;
+    color: rgb(0, 195, 255);
+    background-color: rgba(2, 83, 150, 0.61);
+    margin-top: -2rem;
+    line-height: 5rem;
+}
+.tag {
+    font-family: "Archivo Black";
+    color: rgb(241, 241, 241);
+    font-size: 3.5rem;
+    letter-spacing: 0.1;
+}
+
+.subtitulo {
+    color: rgb(241, 241, 241) ;
+    line-height: 1.7;
+    margin-top: 2rem;
+}
+
+.btn1 {
+    font-weight: bolder;
+    margin-top: 3rem;
+    padding: 0.5rem;
+    border-radius: 10rem;
+    color: rgb(3, 22, 75);
+    background-color: rgb(57, 136, 182);
+
+}
+
+.btn2 {
+    font-size: 0.70rem;
+    margin-top: 3rem;
+    padding: 0.5rem;
+    border-radius: 10rem;
+    color: rgb(248, 248, 248);
+    background-color: rgba(173, 175, 177, 0.61);
+
+}
